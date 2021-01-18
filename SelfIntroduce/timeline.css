@@ -141,6 +141,6 @@ h1{
   transition: -webkit-filter 0.5s ease;
   transition: filter 0.5s ease;
   transition: filter 0.5s ease, -webkit-filter 0.5s ease;
-  -webkit-filter: grayscale(25%);
+  -webkit-filter: grayscale(0%);
           filter: grayscale(0%);
 }
