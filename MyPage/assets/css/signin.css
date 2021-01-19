@@ -38,8 +38,6 @@ h1{
 }
 
 
-
-
 label {
     /* To make sure that all label have the same size and are properly align */
     display: inline-block;
@@ -87,4 +85,5 @@ button {
        border: none;
        cursor: pointer;
        border-radius: 4px 4px;
+       padding-bottom: 
 }
