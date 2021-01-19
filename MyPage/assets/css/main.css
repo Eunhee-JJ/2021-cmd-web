@@ -2615,6 +2615,14 @@
 			}
 
 		}
+	.title{
+		display:block;
+		text-align: center;
+		font-size:1.8rem;
+		font-weight: bold;
+		margin-bottom:1rem;
+		text-shadow: 1px 1px gray;
+	}
 
 	.menu {
 		list-style:none;
@@ -2666,19 +2674,14 @@
 	}
 
 	.category{
+		display: block;
 		text-align: center;
 		font-size: 1.25rem;
 		text-shadow: 0.5px 0.5px gray;
+		margin-bottom: 1rem;
 	}
 
-	.title{
-		display:block;
-		text-align: center;
-		font-size:1.8rem;
-		font-weight: bold;
-		margin-bottom:1rem;
-		text-shadow: 1px 1px gray;
-	}
+	
 
 
 /* Footer */
